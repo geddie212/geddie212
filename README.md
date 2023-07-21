@@ -23,4 +23,15 @@ Software development is always changing, new libraries, new methods, new technol
     <li><b>Outcome - </b>98% time reduction (this was done manually before). Saved the company over $105k annually by not hiring an agency to constantly update this process</li>
 </ul>
 <img src="https://raw.githubusercontent.com/geddie212/shopping_feed_gif/main/google-feed-automator.gif">
-
+<h2>Tools used</h2>
+<ul>
+  <li>Python</li>
+  <li>Flask (back-end)</li>
+  <li>Dynamically Built HTML and CSS (front-end)</li>
+  <li>REST API</li>
+  <li>Javascript</li>
+  <li>Google Sheets API</li>
+  <li>Digital River API</li>
+  <li>SQL Alchemy</li>
+  <li>Bootstrap</li>
+</ul>
