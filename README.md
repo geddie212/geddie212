@@ -20,6 +20,6 @@ Software development is always changing, new libraries, new methods, new technol
 <h1>Recent Project - Google Shopping Feed Automator (2023)</h1>
 <ul>
   <li><b>Brief - </b>Build a web based app which connects to an e-commerce website API to download individual product data and upload the data to Google Merchant Centre to have the most up-to-date Google shopping listings for this business</li>
-    <li><b>Outcome - </b>98% time reduction (this was done manually before). Saved the company over $105k annualy by not hiring an agency to constantly update this process</li>
+    <li><b>Outcome - </b>98% time reduction (this was done manually before). Saved the company over $105k annually by not hiring an agency to constantly update this process</li>
 </ul>
 
