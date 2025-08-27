@@ -1,5 +1,5 @@
 <h1>Hi, I'm Paul 👋</h1>
-
+ 
 <p>A software developer specializing in Python, HTML, CSS and C#. 
 </p>
 
