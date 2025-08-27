@@ -1,8 +1,7 @@
 <h1>Hi, I'm Paul 👋</h1>
 
 <p>A software developer specializing in Python, HTML, CSS and C#. 
-<br>
-I have over 4 years experience as a software developer and proficient in:</p>
+</p>
 
 <ul>
   <li><b>Version Control Systems - </b>Mainly Git and Github</li>
