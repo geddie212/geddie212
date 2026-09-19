@@ -1,4 +1,4 @@
-# Hi, I'm Paul
+# Hey it's Paul
 
 I'm a computer science student at the University of San Francisco. My projects range from tools for coding together to apps for collecting and working with wearable data.
 
@@ -26,6 +26,6 @@ The project also uses AWS Cognito for authentication, RDS/Postgres for records, 
 
 Earlier Python projects include a [Flask café API](https://github.com/geddie212/cafe_api) that serves JSON from a SQLite database. There are also [Java sorting algorithms](https://github.com/geddie212/sort_algorithms) and [data structures and algorithm practice](https://github.com/geddie212/neetcode-submissions).
 
-I use Git/GitHub for version control and Claude and Codex throughout development.
+I use Git/GitHub for VC and Claude and Codex for AI help.
 
-Based in San Francisco.
+Based in SF.
